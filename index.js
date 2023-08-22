@@ -18,3 +18,4 @@ function mult(){
     var num2 = document.getElementById("inputnum2").value;
     alert(Number(num1)*Number(num2));
 }
+vvv
